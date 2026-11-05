@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-data-processing-react-inertia",
+  "capabilityKey": "liberusoftware/automation-data-processing",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-automation-data-processing-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/automation/nextjs/data-processing.md",
+  "presentationPlan": "projects/automation/react/data-processing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
